@@ -1,0 +1,8 @@
+{
+  "dashboardVersion": "1.0.0",
+  "features": {
+    "allowServiceEditing": true,
+    "allowBusinessHoursEditing": true
+  },
+  "appointmentStatuses": ["pending", "confirmed", "completed", "cancelled"]
+}
